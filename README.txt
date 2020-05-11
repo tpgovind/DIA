@@ -8,4 +8,4 @@ To do this, we used the following algorithm to perform pixel-by-pixel frame subt
 5.Enhance contrast and smooth (as appropriate) and save the resulting image.
 6.Compute the mean gray value of each image in the resulting stack and plot mean gray value against time (frame number divided by sampling rate). In our experience, four times median absolute deviation from baseline is a reliable indicator of an escape movement.
 
-A custom ImageJ macro and sample images are provided here:
+A custom ImageJ macro and sample images are provided here: https://github.com/tpgovind/DIA
